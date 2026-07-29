@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <img src="https://picsum.photos/400/300" width="400px"/>
+      <img src="https://picsum.photos/400/300" className="image" />
     </>
   )
 }
